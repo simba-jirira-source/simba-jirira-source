@@ -12,7 +12,7 @@ I manage every aspect of my projects, from design to deployment.
 
 - 🌱 I’m currently learning **flutter, react**
 
-- 👯 I’m looking to collaborate on [eventmanagementplatform](https://github.com/simba-jirira/EventManagementPlatform)
+- 👯 I’m looking to collaborate on [CRM](#)
 
 - 👨‍💻 All of my projects are available at [simbajirira.com](simbajirira.com)
 
