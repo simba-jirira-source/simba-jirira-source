@@ -1,32 +1,87 @@
-<h1 align="center">Hi 👋, I'm Simba </h1>
-<p align="left">
-I'm a **Passionate Freelance Full-Stack Web Developer** 
-committed to building meaningful and impactful solutions. With a love for solving complex problems and delivering high-quality, user-centered applications, 
-I manage every aspect of my projects, from design to deployment. 
-</p>
+# Simba Jirira
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=simba-jirira&label=Profile%20views&color=0e75b6&style=flat" alt="simba-jirira" /> </p>
+**Laravel Developer · Open-Source Package Maintainer · PHP Application Architect**
 
-- 🔭 I’m currently working on [CRM](#)
+I build Laravel applications, reusable Laravel packages, and maintainable backend systems — with an emphasis on clean architecture, automated testing, and production-quality engineering.
 
-- 🌱 I’m currently learning **flutter, react**
+---
 
-- 👯 I’m looking to collaborate on [CRM](#)
+## About
 
-- 👨‍💻 All of my projects are available at [simbajirira.com](simbajirira.com)
+My work centres on PHP and Laravel: application architecture, Livewire-powered interfaces, developer tooling, and open-source packages that other teams can adopt with confidence.
 
-- 📫 How to reach me **github@simbajirira.com**
+I focus on maintainable codebases, clear APIs, reusable components, and developer experience — from Artisan commands and service providers to CI-backed release workflows.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://bulma.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+## Open Source
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=simba-jirira&show_icons=true&locale=en&layout=compact" alt="simba-jirira" /></p>
+Public Laravel packages I maintain:
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=simba-jirira&show_icons=true&locale=en" alt="simba-jirira" /></p>
+### [Laravel Schema Contract](https://github.com/simba-jirira-source/laravel-schema-contract)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=simba-jirira&" alt="simba-jirira" /></p>
+Developer tooling that detects inconsistencies between Laravel database schema metadata and Eloquent model casts. Discovers models, reads live schema metadata, normalizes types, and reports contract violations with CI-friendly exit codes. Read-only analysis — no schema or data mutations.
+
+`PHP 8.3+` · `Laravel 13.x` · SQLite, MySQL, PostgreSQL
+
+### [Laravel Analytics](https://github.com/simba-jirira-source/laravel-analytics)
+
+First-party, self-hosted application analytics for Laravel. Track page views, unique visitors, HTTP errors, and optional IP bans in your application's own database, with an optional Livewire dashboard. Privacy-aware by default — tracking, raw IP storage, and the dashboard are disabled until explicitly enabled.
+
+`PHP 8.3+` · `Laravel 12–13` · SQLite, MySQL, PostgreSQL
+
+---
+
+## Current Focus
+
+- Laravel package development and maintenance
+- Application architecture and reusable developer tooling
+- Livewire applications and Laravel-native UI patterns
+- Automated testing, static analysis, and CI/CD with GitHub Actions
+- Application scaffolding and internal tooling
+
+---
+
+## Core Stack
+
+**Backend** — PHP · Laravel · Livewire
+
+**Frontend** — Tailwind CSS · JavaScript · Alpine.js · Vite
+
+**Testing & Quality** — Pest · PHPUnit · Laravel Pint
+
+**Data** — MySQL · PostgreSQL · SQLite
+
+**Infrastructure & Tooling** — Docker · Linux · Git · GitHub · GitHub Actions · Nginx
+
+---
+
+## Engineering Principles
+
+- Maintainable architecture over quick fixes
+- Automated testing and static analysis in CI
+- Clear, documented APIs for packages and components
+- Reusable components with sensible defaults
+- Semantic versioning for open-source releases
+- Backward compatibility where appropriate
+- Useful developer documentation
+
+---
+
+## GitHub Activity
+
+<img src="https://github-readme-stats-alpha.vercel.app/api?username=simba-jirira-source&show_icons=true&locale=en&hide_title=true" alt="GitHub statistics for simba-jirira-source" height="165" />
+
+<img src="https://github-readme-stats-alpha.vercel.app/api/top-langs/?username=simba-jirira-source&layout=compact&locale=en&hide_title=true" alt="Most used languages for simba-jirira-source" height="165" />
+
+<img src="https://streak-stats.demolab.com/?user=simba-jirira-source" alt="GitHub contribution streak for simba-jirira-source" height="165" />
+
+<img src="https://komarev.com/ghpvc/?username=simba-jirira-source&label=Profile%20views&color=0e75b6&style=flat" alt="Profile view counter" />
+
+---
+
+## Contact
+
+- **Portfolio:** [simbajirira.com](https://simbajirira.com)
+- **GitHub:** [simba-jirira-source](https://github.com/simba-jirira-source)
+- **Email:** [github@simbajirira.com](mailto:github@simbajirira.com)
