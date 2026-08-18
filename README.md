@@ -1,12 +1,8 @@
 ![Simba Jirira — Laravel Developer, Open-Source Package Maintainer, PHP Application Architect](./assets/profile-header.svg)
 
-**Laravel Developer** · **Open Source** · **Package Maintainer**
+[Portfolio](https://simbajirira.com/) · [Schema Contract](https://github.com/simba-jirira-source/laravel-schema-contract) · [Laravel Analytics](https://github.com/simba-jirira-source/laravel-analytics) · [Email](mailto:github@simbajirira.com)
 
 I build Laravel applications, reusable Laravel packages, and maintainable backend systems — with an emphasis on clean architecture, automated testing, and production-quality engineering.
-
-[![Visit Portfolio](https://img.shields.io/badge/Visit_Portfolio-2563eb?style=for-the-badge&logo=google-chrome&logoColor=white)](https://simbajirira.com)
-[![GitHub](https://img.shields.io/badge/GitHub-1e293b?style=for-the-badge&logo=github&logoColor=f8fafc)](https://github.com/simba-jirira-source)
-[![Email](https://img.shields.io/badge/Email-1e293b?style=for-the-badge&logo=gmail&logoColor=f8fafc)](mailto:github@simbajirira.com)
 
 ## About
 
@@ -18,76 +14,51 @@ I focus on maintainable codebases, clear APIs, reusable components, and develope
 
 Public Laravel packages I maintain.
 
-### [Laravel Schema Contract](https://github.com/simba-jirira-source/laravel-schema-contract)
+[![Laravel Schema Contract — detect schema and Eloquent cast inconsistencies](./assets/laravel-schema-contract.svg)](https://github.com/simba-jirira-source/laravel-schema-contract)
 
 Developer tooling that detects inconsistencies between Laravel database schema metadata and Eloquent model casts. Discovers models, reads live schema metadata, normalizes types, and reports contract violations with CI-friendly exit codes. Read-only analysis — no schema or data mutations.
 
-`PHP 8.3+` · `Laravel 13.x` · `SQLite · MySQL · PostgreSQL` · `Pest` · `CI`
-
-**[View Repository →](https://github.com/simba-jirira-source/laravel-schema-contract)**
-
-### [Laravel Analytics](https://github.com/simba-jirira-source/laravel-analytics)
+[![Laravel Analytics — first-party self-hosted analytics for Laravel](./assets/laravel-analytics.svg)](https://github.com/simba-jirira-source/laravel-analytics)
 
 First-party, self-hosted application analytics for Laravel. Track page views, unique visitors, HTTP errors, and optional IP bans in your application's own database, with an optional Livewire dashboard. Privacy-aware by default — tracking, raw IP storage, and the dashboard are disabled until explicitly enabled.
 
-`PHP 8.3+` · `Laravel 12–13` · `Livewire 4` · `SQLite · MySQL · PostgreSQL` · `CI`
-
-**[View Repository →](https://github.com/simba-jirira-source/laravel-analytics)**
-
 ## Current Focus
 
-Package Development · Application Architecture · Livewire Applications · Testing & Quality · Developer Tooling · CI/CD
+- **Package engineering** — Laravel packages and reusable developer tooling
+- **Application architecture** — Maintainable Laravel application design
+- **Livewire** — Laravel-native interactive applications
+- **Quality engineering** — Pest, static analysis and CI
+- **Automation** — GitHub Actions and development workflows
 
 ## Core Stack
 
-### Backend
+**Backend**
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Livewire](https://img.shields.io/badge/Livewire-1e293b?style=flat-square&logo=livewire&logoColor=f8fafc)
+`PHP` `Laravel` `Livewire`
 
-### Frontend
+**Frontend**
 
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-1e293b?style=flat-square&logo=tailwindcss&logoColor=f8fafc)
-![Alpine.js](https://img.shields.io/badge/Alpine.js-1e293b?style=flat-square&logo=alpine.js&logoColor=f8fafc)
-![JavaScript](https://img.shields.io/badge/JavaScript-1e293b?style=flat-square&logo=javascript&logoColor=f8fafc)
-![Vite](https://img.shields.io/badge/Vite-1e293b?style=flat-square&logo=vite&logoColor=f8fafc)
+`Tailwind CSS` `Alpine.js` `JavaScript` `Vite`
 
-### Testing & Quality
+**Testing & Quality**
 
-![Pest](https://img.shields.io/badge/Pest-1e293b?style=flat-square&logo=testinglibrary&logoColor=f8fafc)
-![PHPUnit](https://img.shields.io/badge/PHPUnit-1e293b?style=flat-square&logo=testinglibrary&logoColor=f8fafc)
-![Laravel Pint](https://img.shields.io/badge/Laravel_Pint-1e293b?style=flat-square&logo=laravel&logoColor=f8fafc)
+`Pest` `PHPUnit` `Laravel Pint`
 
-### Data
+**Data**
 
-![MySQL](https://img.shields.io/badge/MySQL-1e293b?style=flat-square&logo=mysql&logoColor=f8fafc)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1e293b?style=flat-square&logo=postgresql&logoColor=f8fafc)
-![SQLite](https://img.shields.io/badge/SQLite-1e293b?style=flat-square&logo=sqlite&logoColor=f8fafc)
+`MySQL` `PostgreSQL` `SQLite`
 
-### Infrastructure
+**Infrastructure**
 
-![Docker](https://img.shields.io/badge/Docker-1e293b?style=flat-square&logo=docker&logoColor=f8fafc)
-![Linux](https://img.shields.io/badge/Linux-1e293b?style=flat-square&logo=linux&logoColor=f8fafc)
-![Git](https://img.shields.io/badge/Git-1e293b?style=flat-square&logo=git&logoColor=f8fafc)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-1e293b?style=flat-square&logo=githubactions&logoColor=f8fafc)
-![Nginx](https://img.shields.io/badge/Nginx-1e293b?style=flat-square&logo=nginx&logoColor=f8fafc)
+`Docker` `Linux` `Git` `GitHub Actions` `Nginx`
 
 ## Engineering Principles
 
 - Maintainable architecture over quick fixes
-- Automated testing and static analysis in CI
-- Clear, documented APIs for packages and components
-- Reusable components with sensible defaults
-- Semantic versioning for open-source releases
-- Backward compatibility where appropriate
+- Automated testing and static analysis
+- Clear documented APIs
+- Semantic versioning and compatibility
 - Useful developer documentation
-
-## GitHub Activity
-
-<img src="https://github-readme-stats-alpha.vercel.app/api?username=simba-jirira-source&show_icons=true&hide_title=true&hide_border=false&bg_color=0f172a&title_color=3b82f6&text_color=f8fafc&icon_color=38bdf8&border_color=334155" alt="GitHub statistics for simba-jirira-source" width="100%" />
-
-<img src="https://github-readme-stats-alpha.vercel.app/api/top-langs/?username=simba-jirira-source&layout=compact&hide_title=true&hide_border=false&bg_color=0f172a&title_color=3b82f6&text_color=f8fafc&icon_color=38bdf8&border_color=334155" alt="Most used languages for simba-jirira-source" width="100%" />
 
 ## Currently Listening
 
@@ -95,6 +66,4 @@ Package Development · Application Architecture · Livewire Applications · Test
 
 ## Contact
 
-[![Visit Portfolio](https://img.shields.io/badge/Visit_Portfolio-2563eb?style=for-the-badge&logo=google-chrome&logoColor=white)](https://simbajirira.com)
-[![GitHub](https://img.shields.io/badge/GitHub-simba--jirira--source-1e293b?style=for-the-badge&logo=github&logoColor=f8fafc)](https://github.com/simba-jirira-source)
-[![Email](https://img.shields.io/badge/Email-github@simbajirira.com-1e293b?style=for-the-badge&logo=gmail&logoColor=f8fafc)](mailto:github@simbajirira.com)
+[Portfolio](https://simbajirira.com/) · [GitHub](https://github.com/simba-jirira-source) · [Email](mailto:github@simbajirira.com)
