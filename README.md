@@ -2,13 +2,7 @@
 
 [Portfolio](https://simbajirira.com/) · [Schema Contract](https://github.com/simba-jirira-source/laravel-schema-contract) · [Laravel Analytics](https://github.com/simba-jirira-source/laravel-analytics) · [Email](mailto:github@simbajirira.com)
 
-I build Laravel applications, reusable Laravel packages, and maintainable backend systems — with an emphasis on clean architecture, automated testing, and production-quality engineering.
-
-## About
-
-My work centres on PHP and Laravel: application architecture, Livewire-powered interfaces, developer tooling, and open-source packages that other teams can adopt with confidence.
-
-I focus on maintainable codebases, clear APIs, reusable components, and developer experience — from Artisan commands and service providers to CI-backed release workflows.
+I build Laravel applications, reusable Laravel packages, and maintainable backend systems — with an emphasis on clean architecture, automated testing, and production-quality engineering. My work centres on PHP and Laravel: application architecture, Livewire-powered interfaces, developer tooling, and open-source packages that other teams can adopt with confidence. I focus on maintainable codebases, clear APIs, reusable components, and developer experience — from Artisan commands and service providers to CI-backed release workflows.
 
 ## Open Source
 
@@ -64,6 +58,8 @@ First-party, self-hosted application analytics for Laravel. Track page views, un
 
 <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=114440487&theme=spotify-embed&background_color=0f172a&bar_color=1DB954&border_radius=12&cover_image=true&show_offline=true" alt="Spotify Now Playing" width="100%" />
 
-## Contact
+## Let's Build Something
 
-[Portfolio](https://simbajirira.com/) · [GitHub](https://github.com/simba-jirira-source) · [Email](mailto:github@simbajirira.com)
+Need a Laravel developer for your next application or package? Let's talk.
+
+[Portfolio](https://simbajirira.com/) · [Email](mailto:github@simbajirira.com)
